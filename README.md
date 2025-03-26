@@ -38,11 +38,11 @@ Every user issue has one thing in common...the necessity to contact someone to h
 <p>
 From here, agents will recieve the ticket on their end. Agents can access tickets assigned to them through:
 
-Agent Portal > Tickets > Open > *Open Ticket*
+*Agent Portal > Tickets > Open > Open Ticket*
 
   ![image](https://github.com/user-attachments/assets/8c743b74-74d6-45c3-b764-106e7cde4e9d)
 
-Above is an agent view of the same ticket that the user created in the first image. 
+Above is the same ticket that the user created in the first image within the agent's UI. 
 
 </p>
 <br />
@@ -65,21 +65,21 @@ Once communication is being established, then the ticket can be worked by whoeve
 
 <ins> Stage 3: Working the Issue <ins/>
 
+At this stage, we want to be able to actually work the user's ticket so we can resolve their issue as quickly as possible. Below is a brief snapshot of how the agent is working the ticket.
+
 ![image](https://github.com/user-attachments/assets/7f0d46bd-9fa5-4988-b04e-450f435f22cd)
 
 <p>
-At this stage, we want to be able to actually work the user's ticket so we can resolve their issue as quickly as possible.
-</p>
+ They communicate notes about the customer's issue, mention who is assigned the ticket and then diagnose their issue. In this case, it seems it was caused by recent software updates, to which the agent will rollback the system if it is determined that that is the main issue. From here the agent may request more information, troubleshoot, or do what they need to do to solve it so they can move onto the resolution. 
 <br />
 
 
 <ins> Stage 4: Resolution <ins/>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+The final lifecycle stage of a ticket comes in the form of resolution. Once the ticket is worked to completion, an agent will communicate this with the end user and other agents that need to know. They will communicate the resolution then mark the ticket as resolved or closed! This will be the final thing an agent will do until they take on a new ticket and the cycle continutes. 
+
+![image](https://github.com/user-attachments/assets/3b92aa1c-3449-485d-8bb3-fbc57f02f3f3)
+
+
+<ins>Final Thought:<ins/>
 <p>One final thing to note is that tickets can be made a plethora of ways. It could of course be simply done through the designated ticketting portal, however, that isnt always the case. Sometimes "tickets" appear in the form of emails, direct phonecalls, or even conversations with a coworker in the hall. It is always important to manually track and create tickets regardless of what they are. Metrics are important! :).  </p>
